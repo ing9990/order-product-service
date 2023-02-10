@@ -1,6 +1,5 @@
 package com.orderproductservice.domain;
 
-import com.orderproductservice.domain.service.Product;
 import lombok.Getter;
 
 import java.math.BigDecimal;

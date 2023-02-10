@@ -1,4 +1,4 @@
-package com.orderproductservice.domain.service;
+package com.orderproductservice.domain;
 
 import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.annotation.JsonProperty;

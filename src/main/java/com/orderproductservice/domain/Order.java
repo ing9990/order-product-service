@@ -1,6 +1,5 @@
 package com.orderproductservice.domain;
 
-import com.orderproductservice.domain.service.Product;
 import lombok.AccessLevel;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
