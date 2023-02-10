@@ -4,9 +4,11 @@ import com.orderproductservice.domain.Order;
 import com.orderproductservice.domain.Product;
 import com.orderproductservice.domain.repository.OrderRepository;
 import lombok.RequiredArgsConstructor;
+import org.springframework.stereotype.Service;
 
 import java.util.UUID;
 
+@Service
 @RequiredArgsConstructor
 public class DomainOrderService implements OrderService {
 
